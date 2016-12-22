@@ -1,3 +1,11 @@
+<header>
+<head>
+<link rel="stylesheet" type="text/css" href="styles/github.css">
+</head>
+</header>
+
+# Alex Tighe
+
 <alextighe@gmail.com> | 508.326.4871 | <http://alextighe.me>
 
 ## Technologies
