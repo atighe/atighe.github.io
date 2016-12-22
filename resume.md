@@ -1,8 +1,8 @@
-Alex Tighe
-==========
+# Alex Tighe
 <alex.tighe@gmail.com> | 508.326.4871 | <http://alextighe.me>
 
 ### Technologies
+
 Java, Python, Coherence, Perl, SQL, Spring, vim, Unix
 
 ### Professional Experience
