@@ -1,12 +1,13 @@
 # Alex Tighe
 <alex.tighe@gmail.com> | 508.326.4871 | <http://alextighe.me>
 
-## Technologies
+### Technologies
+
 Java, Python, Coherence, Perl, SQL, Spring, vim, Unix
 
-## Professional Experience
+### Professional Experience
 
-### Associate, Galatea Associates
+#### Associate, Galatea Associates
 
 ##### Somerville, MA, 04.12 - Present
 - Work on a global, real-time position-keeping application based on Java and Coherence, an in-memory distributed data grid
@@ -54,5 +55,3 @@ Java, Python, Coherence, Perl, SQL, Spring, vim, Unix
 ### Education
 MS, Aerospace Engineering, Virginia Tech, December 2003 <br>
 BS, Aerospace Engineering, Minor in Mathematics, Virginia Tech, May 2002
-
-
