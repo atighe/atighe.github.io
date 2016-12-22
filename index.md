@@ -1,3 +1,9 @@
+<header>
+<head>
+<link rel="stylesheet" type="text/css" href="styles/github.css">
+</head>
+</header>
+
 # Hello, I'm Alex.
 
 I engineer software and listen to music and read. Here are my parts of the Internet:
