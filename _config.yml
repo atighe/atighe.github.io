@@ -1,4 +1,9 @@
 title: Alex Tighe
 markdown: kramdown
+kramdown:
+  extensions:
+    - autolink
+    - footnotes
+    - smart
 show_downloads: false
 theme: jekyll-theme-modernist
