@@ -6,12 +6,16 @@ Java, Python, Coherence, Perl, SQL, Spring, vim, Unix
 
 ## Professional Experience
 
-### Associate, Galatea Associates, Somerville, MA, 04.12 - Present
+### Associate, Galatea Associates
+#### Somerville, MA, 04.12 - Present
+
 - Work on a global, real-time position-keeping application based on Java and Coherence, an in-memory distributed data grid
 - Maintain and improve the RESTful web service, core storage and query functionality, test infrastructure, and data sources for the application
 - Provide senior technical guidance for our global team, participate in architectural discussions and decisions, and act as a key technical advisor
 
-### Senior Software Engineer, Sigma Space Corporation, Lanham, MD, 01.11 - 04.12
+### Senior Software Engineer, Sigma Space Corporation
+#### Lanham, MD, 01.11 - 04.12
+
 - Worked on all aspects of data production, archive, and distribution systems for NASA Earth imaging instruments, including development, maintenance, and testing
 - Debugged errors in production system using PostgreSQL database, logs, and analysis scripts
 - Collaborated with scientists and Operations group to ensure validity of data and make appropriate corrections
