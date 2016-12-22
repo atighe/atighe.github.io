@@ -1,5 +1,5 @@
-#theme: jekyll-theme-minimal
 title: Alex Tighe
-markdown: kramdown
+#markdown: kramdown
+markdown: rdiscount
 show_downloads: false
 theme: jekyll-theme-modernist
