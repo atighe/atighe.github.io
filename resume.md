@@ -6,10 +6,7 @@
 Java, Python, Coherence, Perl, SQL, Spring, vim, Unix
 
 ### Professional Experience
-
-#### Associate, Galatea Associates
-
-##### Somerville, MA, 04.12 - Present
+#### Associate, Galatea Associates, Somerville, MA, 04.12 - Present
 - Work on a global, real-time position-keeping application based on Java and Coherence, an in-memory distributed data grid
 - Maintain and improve the RESTful web service, core storage and query functionality, test infrastructure, and data sources for the application
 - Provide senior technical guidance for our global team, participate in architectural discussions and decisions, and act as a key technical advisor
