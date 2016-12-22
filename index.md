@@ -1,6 +1,6 @@
 <header>
 <head>
-<link rel="stylesheet" type="text/css" href="styles/github.css">
+<link rel="stylesheet" type="text/css" href="styles/other.css">
 </head>
 </header>
 
