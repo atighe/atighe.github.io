@@ -6,9 +6,7 @@
 
 # Alex Tighe
 
-<alextighe@gmail.com>
-508.326.4871
-<http://alextighe.me>
+<alextighe@gmail.com> // 508.326.4871 // <http://alextighe.me>
 
 ## Technologies
 
