@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>index</title>
+
+	<meta charset="utf-8"/>
+  <style type="text/css">
+html {
+    /* the line height value of 1.9 is fixed for a line height multiple of 1.4 in the text view */
+    font: normal 100.0%/1.9 serif;
+}
+
 body {
     font-family: 'Avenir Next', Helvetica, Georgia, serif;
     word-wrap: break-word;
@@ -49,7 +62,7 @@ body {
 }
 
 #content {
-    width: 850px;
+    width: 610px;
     margin: 0 auto 0 auto;
     padding: 30px 0 30px 0;
 }
@@ -331,7 +344,7 @@ figcaption {
     width: 99.9%;
 }
 #content {
-    width: 850px;
+    width: 610px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -346,6 +359,63 @@ figcaption {
         overflow: auto;
         position: relative;
     }
+}/* html elements */
+
+body {
+    background-color: #1a1a1a;
+    color: #bebebe;
+}
+a {
+    color: #308bd8;
+}
+hr {
+    color: #666;
+    background-color: #666;
+    -webkit-box-shadow: none;
+}
+pre {
+    background-color: #222;
+    border-color: #3c3c3c;
+}
+code {
+    background-color: #222;
+    border-color: #3c3c3c;
+}
+blockquote {
+    border-color: #333;
+    color: #999;
+}
+table {
+    border-color: #3c3c3c;
+}
+table th {
+    background-color: #222;
+    border-color: #3c3c3c;
+}
+table td {
+    border-color: #3c3c3c;
+}
+mark {
+    background: #bc990b;
+    color:#000;
+}
+
+/* unique elements */
+
+#wrapper::-webkit-scrollbar-thumb:vertical {
+    background-color: #525252;
+}
+#top-fader {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(26,26,26,1)), to(rgba(26,26,26,0)));
+}
+#bottom-fader {
+    background: -webkit-gradient(linear, left bottom, left top, from(rgba(26,26,26,1)), to(rgba(26,26,26,0)));
+}
+
+/* custom formatting classes */
+
+.shadow {
+    -webkit-box-shadow: 0 2px 4px #000;
 }@media print {
 /* Printing support.
  * Override all printing colors to match the Light theme.
@@ -420,3 +490,23 @@ mark {
 .source {
     color: #000;
 }
+}
+  </style>
+</head>
+<body>
+  <div id="wrapper">
+    <div id="content">
+<h1>Hello, I&#8217;m Alex.</h1>
+
+<p>I engineer software and listen to music and read. Here are my parts of the Internet:</p>
+
+<p><a href="https://twitter.com/ohyoucare">Twitter</a>
+<a href="https://github.com/atighe">GitHub</a>
+<a href="https://www.instagram.com/ohyoucare">Instagram</a>
+<a href="http://www.last.fm/user/thatwillhappen">Last.fm</a>
+<a href="https://www.linkedin.com/in/atighe">LinkedIn</a>
+<a href="http://alextighe.me/resume">Resume</a></p>
+    </div>
+  </div> <!-- End wrapper -->
+</body>
+</html>
