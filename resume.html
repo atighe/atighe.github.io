@@ -9,11 +9,11 @@
 /* +++ master +++ */
 html {
     /* the line height value of 1.9 is fixed for a line height multiple of 1.4 in the text view */
-    font: normal 75.0%/1.9 serif;
+    font: normal 81.2%/1.9 serif;
 }
 
 body {
-    font-family: 'AvenirNext-Regular', Helvetica, Georgia, serif;
+    font-family: '.SFUIText', Helvetica, Georgia, serif;
     word-wrap: break-word;
     margin: 0;
     padding: 0;
@@ -337,66 +337,6 @@ figcaption {
     }
 }
 /* --- overrides --- */
-/* +++ theme +++ */
-/* html elements */
-
-body {
-    background-color: #1a1a1a;
-    color: #bebebe;
-}
-a {
-    color: #308bd8;
-}
-hr {
-    color: #666;
-    background-color: #666;
-    -webkit-box-shadow: none;
-}
-pre {
-    background-color: #222;
-    border-color: #3c3c3c;
-}
-code {
-    background-color: #222;
-    border-color: #3c3c3c;
-}
-blockquote {
-    border-color: #333;
-    color: #999;
-}
-table {
-    border-color: #3c3c3c;
-}
-table th {
-    background-color: #222;
-    border-color: #3c3c3c;
-}
-table td {
-    border-color: #3c3c3c;
-}
-mark {
-    background: #bc990b;
-    color:#000;
-}
-
-/* unique elements */
-
-#wrapper::-webkit-scrollbar-thumb:vertical {
-    background-color: #525252;
-}
-#top-fader {
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(26,26,26,1)), to(rgba(26,26,26,0)));
-}
-#bottom-fader {
-    background: -webkit-gradient(linear, left bottom, left top, from(rgba(26,26,26,1)), to(rgba(26,26,26,0)));
-}
-
-/* custom formatting classes */
-
-.shadow {
-    -webkit-box-shadow: 0 2px 4px #000;
-}
-/* --- theme --- */
 
   </style>
 </head>
@@ -405,42 +345,87 @@ mark {
     <div id="content">
 <h2>Alex Tighe</h2>
 
-<p><a href="&#109;&#97;&#105;&#108;&#x74;&#111;&#x3a;&#x61;&#x6c;&#101;&#x78;&#x74;&#x69;&#x67;&#104;&#101;&#64;&#105;&#99;&#108;&#111;&#117;&#x64;&#46;&#99;&#x6f;&#x6d;">&#x61;&#x6c;&#101;&#x78;&#x74;&#105;&#103;&#104;&#x65;&#64;&#x69;&#x63;&#x6c;&#111;&#x75;&#100;&#x2e;&#x63;&#111;&#x6d;</a> | 508.326.4871 </p>
+<p>1228 Cambridge St, Cambridge MA 02139 | <a href="&#109;&#97;&#105;&#108;&#x74;&#111;&#x3a;&#x61;&#x6c;&#101;&#x78;&#x74;&#x69;&#x67;&#104;&#101;&#64;&#105;&#99;&#108;&#111;&#117;&#x64;&#46;&#99;&#x6f;&#x6d;">&#x61;&#x6c;&#101;&#x78;&#x74;&#105;&#103;&#104;&#x65;&#64;&#x67;&#x6d;&#x61;&#105;&#x6c;&#46;&#x63;&#x6f;&#109;</a> | 508.326.4871</p>
+
+<h3>Profile</h3>
+
+<p>I am a software engineer with a wide range of experience working in everything from experimental neuroscience to NASA satellite image processing to global investment banking software. </p>
 
 <h3>Technologies</h3>
 
-<p>Java, Spring, SQL, Python, Spark, Coherence, Drools, Perl, vim, Unix, and C/C++</p>
+<p>Java, Spring, SQL, Python, Apache Spark, Oracle Coherence, Drools, Perl, vim, Unix, C/C++, .NET</p>
 
-<h3>Professional Experience</h3>
+<h3>Experience</h3>
 
-<h4>Associate, Galatea Associates</h4>
+<h4>Galatea Associates LLC, Somerville, MA</h4>
 
-<h5>Somerville, MA, 4/2012 - Present</h5>
+<p>Galatea is a mid-sized financial software consulting firm that works with large broker-dealers on a variety of mission-critical systems. I am a senior software engineer with experience on several of our clients&#8217; middle- and back-office applications.</p>
+
+<h5>Data Analytics Platform, January 2017 - Present</h5>
+
+<p>I work on an application which provides views and reports of trader positions, such as daily balance sheets, attribution data, and sources and uses information. The data is housed in a database, is loaded into our Java-based Apache Spark application, and then retrieved via Spark SQL.</p>
+
+<h6>Key Accomplishments</h6>
 
 <ul>
-<li>Consult on a variety of middle- and back-office applications for global investment banks</li>
-<li>Develop a scenario-based data calculator using Java and Apache Spark</li>
-<li>Design, implement, and deploy a real-time, rules-driven messaging system based on JMS, Drools, and MongoDB</li>
-<li>Maintain, expand, and improve RESTful web services, core storage and query functionality, test infrastructure, and data sources for a global, real-time position-keeping application using Java and Coherence, an in-memory distributed data grid</li>
-<li>Provide senior technical guidance for global project teams, participate in architectural discussions and decisions, and act as a key technical advisor</li>
+<li>Performed and managed platform upgrade from Spark 1.6 to Spark 2.1 ensuring continuity of use and no unexpected change in behavior</li>
+<li>On-going stabilization and productionizing of application, including automating releases and restarts and implementing application monitoring and alerting</li>
+<li>Acts as a senior consulting resource for both Galatea and client team members</li>
+<li>Ensures a good relationship with the client to foster future work</li>
 </ul>
 
-<h4>Senior Software Engineer, Sigma Space Corporation</h4>
+<h5>Real-time Messaging System, May 2016 - January 2017</h5>
 
-<h5>Lanham, MD, 1/2011 - 4/2012</h5>
+<p>To meet a new application requirement, I designed, implemented, and deployed a real-time, rules-driven messaging system based on JMS, Drools, and MongoDB. Users can subscribe to chat, email, or web-based alerts for various events (i.e., corporate actions, large account changes, etc.)</p>
+
+<h6>Key Accomplishments</h6>
 
 <ul>
-<li>Worked on all aspects of data production, archive, and distribution systems for NASA Earth imaging instruments, including development, maintenance, and testing</li>
-<li>Debugged errors in production system using a PostgreSQL database, logs, and analysis scripts</li>
+<li>Drove the project through the entire software development lifecycle from requirements gathering to production release</li>
+<li>Performed proofs-of-concept for several new technologies and programming approaches which allowed the project to be a standard for future applications, including functional programming, more advanced use of Spring, and new approaches to automating deployment</li>
+</ul>
+
+<h5>Global Real-Time Position Keepers, April 2012 - May 2016</h5>
+
+<p>I have worked on two position-keeping projects. These provide a real-time in-memory record of the bank&#8217;s current inventory. Positions are gathered from various upstream sources via SQL, file processing, messages (IBM MQ), and REST queries to other applications. After normalizing the positions, they are made available for querying and real-time calculations. The first was based on Java and Coherence, and the second was built with Java and GemFire, as well as a front-end built using C# .NET that deployed to a user&#8217;s machine for a customizable interface to the position keeping system.</p>
+
+<h6>Key Accomplishments</h6>
+
+<ul>
+<li>Oversaw and was the key developer on the move to production for the 2.0 version of the application, which included ensuring continuity for existing users, on-boarding new users, adapting software to production query loads, and globalization of the application</li>
+<li>Maintained, expanded, and improved RESTful web services, core storage and query functionality, test infrastructure, and data sources</li>
+<li>Managed another developer while we implemented fixes and features for .NET UI</li>
+<li>Worked on the development of a calculation layer, which did pre-defined calculations on inventory in real-time</li>
+<li>Provided senior technical guidance for global project teams, participated in architectural discussions and decisions, and acted as a key technical advisor</li>
+</ul>
+
+<h4>Sigma Space Corporation, Lanham, MD</h4>
+
+<p>Sigma Space Corporation is a NASA contractor specializing in large-scale data management, data distribution, and data analysis systems for satellite imagery.</p>
+
+<h5>Senior Software Engineer, January 2011 - April 2012</h5>
+
+<p>As a senior software engineer, I worked on all aspects of data production, archive, and distribution systems for NASA Earth imaging instruments, including development, maintenance, and testing. </p>
+
+<h6>Key Accomplishments</h6>
+
+<ul>
+<li>Quickly debugged errors in production system using a PostgreSQL database, logs, and analysis scripts</li>
 <li>Collaborated with scientists and Operations group to ensure validity of data and make appropriate corrections</li>
 <li>Created Perl scripts for the Operations group to simplify and automate production tracking reports</li>
-<li>Worked with the Configuration Management team to version, baseline, and install software processing packages and libraries</li>
-<li>Updated existing documentation to more collaborative and user-friendly wiki pages</li>
+<li>Worked with the Configuration Management team to version, baseline, and install image processing software packages and libraries</li>
+<li>Updated existing documentation to use more collaborative and user-friendly wiki pages</li>
 </ul>
 
-<h4>Programmer, McGovern Institute for Brain Research, MIT</h4>
+<h4>McGovern Institute for Brain Research, MIT, Cambridge, MA</h4>
 
-<h5>Cambridge, MA, 3/2008 - 3/2011</h5>
+<p>The Gabrieli and Graybiel labs, in the MIT McGovern Institute for Brain Research, focus their research on various aspects of cognitive neuroscience. </p>
+
+<h5>Programmer, March 2008 - March 2011</h5>
+
+<p>I was a programmer and general technical resource for the lab researchers and staff. </p>
+
+<h6>Key Accomplishments</h6>
 
 <ul>
 <li>Designed and implemented applications (GUI and back-end) in MATLAB to control physical elements of rodent test chambers and integrate with electrophysiology recording hardware</li>
@@ -450,21 +435,23 @@ mark {
 <li>Developed stimulus presentation code for auditory attenuation, smoking inhibition, and image recognition experiments using MATLAB and Psychtoolbox</li>
 </ul>
 
-<h4>Software Engineer, The MathWorks, Inc.</h4>
+<h4>The MathWorks, Inc., Natick MA</h4>
 
-<h5>Natick, MA, 10/2006 - 2/2008</h5>
+<p>The MathWorks is a software company specializing in mathematical computing, simulating, and code generation software.</p>
+
+<h5>Software Engineer, October 2006 - February 2008</h5>
+
+<p>As a member of the Aerospace Toolbox team, I worked with other development team members on design specifications, feature decisions, and code reviews, as well as collaborated with Quality Engineering team to perform build testing and ensure code coverage.</p>
+
+<h6>Key Accomplishments</h6>
 
 <ul>
 <li>Developed new features in MATLAB and Simulink for the Aerospace Toolbox and Aerospace Blockset, including object-based animation methods and EGM96 gravity model functionality</li>
 <li>Created and implemented refactoring and enhancement plans for the Signal Builder block</li>
 <li>Analyzed and corrected customer-reported issues and worked with Documentation group for software updates and bug fixes</li>
-<li>Collaborated with Quality Engineering team to perform testing and code coverage</li>
-<li>Worked with other development team members on design specifications, feature decisions, and code reviews</li>
 </ul>
 
-<h4>Application Support Engineer, The MathWorks, Inc.</h4>
-
-<h5>Natick, MA, 1/2004 - 10/2006</h5>
+<h5>Application Support Engineer, January 2004 - October 2006</h5>
 
 <ul>
 <li>Specialized in support of the Simulink control, simulation, and design automation products</li>
@@ -473,9 +460,11 @@ mark {
 <li>Acted as support member of xPC Target development team, handling user questions about hardware-in-the-loop simulation and real-time rapid control prototyping</li>
 </ul>
 
-<h4>Summer Intern, NLX Corporation</h4>
+<h4>NLX Corporation, Sterling, VA</h4>
 
-<h5>Sterling, VA, 5/2001 - 8/2002</h5>
+<p>NLX Corporation was a company specializing in airplane simulators. They developed and built commercial and military simulation hardware and software. </p>
+
+<h5>Summer Intern, May 2001 - August 2002</h5>
 
 <ul>
 <li>Aided flight software engineers in full-motion flight simulator development and testing in C under Linux</li>
