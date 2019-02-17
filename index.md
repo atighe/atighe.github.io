@@ -1,4 +1,6 @@
 ---
+title: Hello
+layout: default
 ---
 
 Hello, I'm Alex. 
