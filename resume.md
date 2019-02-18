@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Alex Tighe
 [alextighe.me](http://alextighe.me) | [alex.tighe@gmail.com](mailto:alex.tighe@gmail.com) | 508.326.4871
 
