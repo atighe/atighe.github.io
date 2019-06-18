@@ -12,17 +12,28 @@ I am a software engineer with a wide range of experience working in everything f
 Java, Spring, SQL, Python, Apache Spark, Oracle Coherence, Drools, Perl, vim, Unix, C/C++, .NET
 
 ### Experience
-#### Galatea Associates LLC, Somerville, MA
+#### Galatea Associates LLC., Somerville, MA
 Galatea is a mid-sized financial software consulting firm that works with large broker-dealers on a variety of mission-critical systems. I am a senior software engineer with experience on several of our clients' middle- and back-office applications.
 
-##### Data Analytics Platform, January 2017 - Present
-I work on an application which provides views and reports of trader positions, such as daily balance sheets, attribution data, and sources and uses information. The data is housed in a database, is loaded into a Java-based Apache Spark application, and then retrieved via Spark SQL.
+##### Client Platform, January 2018 - Present
+I am currently the team lead for four development teams across various IT projects in Prime Brokerage.
 
 ###### Key Accomplishments
-- Perform and managed platform upgrade from Spark 1.6 to Spark 2.1 ensuring continuity of use and no unexpected change in behavior
-- Provide stabilization and productionizing of application, including automating releases and restarts and implementing application monitoring and alerting
-- Acts as a senior consulting resource for both Galatea and client team members
-- Ensures a good relationship with the client to foster future work
+- Act as a senior technical resource, providing architectural and design expertise on existing and new projects
+- Leverage experience to move projects forward amid changing requirements, deadlines, and infrastructural roadblocks
+- Provide leadership, mentorship, and management for both my teams and development resources on client IT teams
+- Developed application backend to interact with Symphony, a cross-institution messaging platform
+- Designed and built a flexible, configurable, and lightweight automated task scheduler using Java and Spring to query, repackage, and push data to various downstream channels 
+- Continue to foster relationships with clients to help keep and expand our work at the bank
+
+##### Data Analytics Platform, January 2017 - December 2017
+I worked on an application which provides views and reports of trader positions, such as daily balance sheets, attribution data, and sources and uses information. The data was housed in a database, loaded into a Java-based Apache Spark application, and then retrieved via Spark SQL.
+
+###### Key Accomplishments
+- Performed and managed platform upgrade from Spark 1.6 to Spark 2.1 ensuring continuity of use and no unexpected change in behavior
+- Provided stabilization and productionizing of application, including automating releases and restarts and implementing application monitoring and alerting
+- Was a senior consulting resource for both Galatea and client team members
+- Ensured a good relationship with the client to foster future work
 
 ##### Real-time Messaging System, May 2016 - January 2017
 To meet a new application requirement, I designed, implemented, and deployed a real-time, rules-driven messaging system based on JMS, Drools, and MongoDB. Users can subscribe to chat, email, or web-based alerts for various events (i.e., corporate actions, large account changes, etc.)
@@ -38,7 +49,7 @@ I have worked on two position-keeping projects. These provide a real-time in-mem
 - Oversaw and was the key developer on the move to production for the 2.0 version of the application, which included ensuring continuity for existing users, on-boarding new users, adapting software to production query loads, and globalization of the application
 - Maintained, expanded, and improved RESTful web services, core storage and query functionality, test infrastructure, and data sources
 - Managed another developer while we implemented fixes and features for .NET UI
-- Worked on the development of a calculation layer, which did pre-defined calculations on inventory in real-time
+- Worked on the development of a calculation layer, which did predefined calculations on inventory in real-time
 - Provided senior technical guidance for global project teams, participated in architectural discussions and decisions, and acted as a key technical advisor
 
 #### Sigma Space Corporation, Lanham, MD
@@ -81,7 +92,7 @@ As a member of the Aerospace Toolbox team, I worked with other development team 
 ##### Application Support Engineer, January 2004 - October 2006
 - Specialized in support of the Simulink control, simulation, and design automation products
 - Collaborated with Advanced Support Group and various development teams on long-term customer support interactions
-- Performed group leader duties, including being a senior technical resource for others on support, providing notes and additional help on e-mail questions, handling complex responses and ensuring continuing work flow and resolution of cases
+- Performed group leader duties, including being a senior technical resource for others on support, providing notes and additional help on email questions, handling complex responses and ensuring continuing work flow and resolution of cases
 - Acted as support member of xPC Target development team, handling user questions about hardware-in-the-loop simulation and real-time rapid control prototyping
 
 #### NLX Corporation, Sterling, VA
@@ -95,4 +106,3 @@ NLX Corporation was a company specializing in airplane simulators. They develope
 ### Education
 MS, Aerospace Engineering, Virginia Tech, December 2003 <br>
 BS, Aerospace Engineering, Minor in Mathematics, Virginia Tech, May 2002
-
