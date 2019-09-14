@@ -7,7 +7,7 @@ layout: default
 I engineer software and listen to music and read. Here are my parts of the Internet:
 
 * [Resume](http://alextighe.me/resume)
-* [Email](mailto:alex.tighe@gmail.com)
+* [Email](mailto:alextighe@icloud.com)
 * [LinkedIn](https://www.linkedin.com/in/atighe)
 * [GitHub](https://github.com/atighe)
 * [Twitter](https://twitter.com/ohyoucare)
