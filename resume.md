@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Alex Tighe
-[alextighe.me](http://alextighe.me) | [alex.tighe@gmail.com](mailto:alex.tighe@gmail.com) | 508.326.4871
+[alextighe.me](http://alextighe.me) | [alextighe@icloud.com](mailto:alextighe@icloud.com) | 508.326.4871
 
 ### Profile
 I am a software engineer with a wide range of experience working in everything from experimental neuroscience to NASA satellite image processing to global investment banking software. 
