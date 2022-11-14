@@ -1,1 +1,6 @@
-theme: jekyll-theme-slate
+title: Hi, I'm Alex
+logo: /assets/img/me_round.png
+show_downloads: false
+github:
+  is_project_page: false
+remote_theme: pages-themes/minimal@v0.2.0
