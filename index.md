@@ -7,4 +7,4 @@ I engineer software and listen to music and read. Here are my parts of the Inter
 * [Baeldung](https://www.baeldung.com/author/alextighe)
 * [GitHub](https://github.com/atighe)
 * [Instagram](https://www.instagram.com/ohyoucare/)
-* [Email](mailto:alextighe@icloud.com?subject=Hello!)
+* [Email](mailto:alex.tighe@gmail.com?subject=Hello!)
