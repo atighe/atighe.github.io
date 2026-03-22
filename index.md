@@ -1,3 +1,8 @@
+---
+layout: home
+title: ""
+---
+
 # Hi, I’m Alex
 
 I’m a software engineer focused on building backend systems and data-driven services.
